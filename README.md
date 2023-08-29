@@ -1,7 +1,7 @@
 # Machine-Learning-Medical-Cost-Data-Analysis-Project
 
 
-#### This project contains the Medical Cost Data Analysis results thatI completed for Global-AI Machine Learning Bootcamp. This was the first data analysis I have ever made. I used Random Forest Model, did a hyperparameter optimization, used pandas and matplotlib to display the data.
+#### This project contains the Medical Cost Data Analysis results thatI completed for Global-AI Machine Learning Bootcamp. This was the first data analysis I have ever made. I used Random Forest Model, did a hyperparameter optimization, used pandas and matplotlib to display the data,  made data preprocessing, evaluated how the model performed. 
 
 ![Screenshot 2023-08-29 055828](https://github.com/fairydevmother/Machine-Learning-Medical-Cost-Data-Analysis-Project/assets/83734354/495f175d-a558-4d94-9f9a-ca725d3cc4bf)
 
